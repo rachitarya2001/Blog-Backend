@@ -49,7 +49,7 @@ Return the output ONLY in **valid JSON** with this structure:
 - NO ASTERISKS (*)
 - Ensure plain text sections are clearly separated by line breaks and logical formatting
 - Provide real-world examples, data points, statistics, or URLs explicitly within text to ensure readers can click through.
-- Maintain a formal yet approachable tone.
+- Maintain a formal yet approachable good tone.
  
 `;
 };
